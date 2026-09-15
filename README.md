@@ -3,3 +3,5 @@
 </p>
 <p align="center">
 <sup><a href="https://github.com/musicoflove">♡</a></sup>
+<p align="center">
+<sup><a href="https://rentry.co/cutecutekisses">rentry</a></sup>
